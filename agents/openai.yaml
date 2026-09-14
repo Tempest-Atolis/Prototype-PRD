@@ -1,0 +1,3 @@
+interface:
+  display_name: "Prototype PRD"
+  short_description: "Link HTML prototypes to structured PRD mode"
