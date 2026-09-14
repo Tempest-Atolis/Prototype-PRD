@@ -4,7 +4,7 @@ A Codex Skill for HTML interaction prototypes. It adds a clean Preview mode and 
 
 It supports desktop Web, admin systems, responsive Web, H5, app, mini-program, tablet, and custom-size prototypes.
 
-Maintained by [qiuyue](https://github.com/Tempest-Atolis).
+Maintained by [QiuYue](https://github.com/Tempest-Atolis).
 
 ## Capabilities
 
